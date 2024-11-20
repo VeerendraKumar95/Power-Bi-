@@ -1,0 +1,1 @@
+Tonnage = ((LOOKUPVALUE('Material weights and source'[System Weight (Kg)],'Material weights and source'[UID],'Master Report'[UID]))*'Master Report'[Invoicequantity])/1000
